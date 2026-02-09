@@ -18,7 +18,8 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        - 
+          
+          
 <img width="576" height="798" alt="image" src="https://github.com/user-attachments/assets/fb49b762-19b0-4ad9-9aae-1d4214a1fa3d" />
 
         
