@@ -31,7 +31,8 @@
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
         - 
-<img width="1394" height="1365" alt="image" src="https://github.com/user-attachments/assets/e2da765f-75dd-4730-aa5a-7b3e03768c9c" />
+<img width="626" height="751" alt="image" src="https://github.com/user-attachments/assets/bd56638b-7ca2-45b1-b337-8d4a4305e883" />
+
 
         
 - [ ]  **4. 회고를 잘 작성했나요?**
@@ -45,7 +46,8 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
           
-<img width="1394" height="1365" alt="image" src="https://github.com/user-attachments/assets/a6218fbe-154a-486c-8769-ff6753b931aa" />
+<img width="626" height="751" alt="image" src="https://github.com/user-attachments/assets/10bad06c-4647-4e0a-88d2-7ef4e908e527" />
+
 
 
 
