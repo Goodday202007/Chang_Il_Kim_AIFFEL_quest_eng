@@ -7,6 +7,7 @@
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
+          
 <img width="1290" height="1329" alt="image" src="https://github.com/user-attachments/assets/ede760a4-5a52-40eb-96cd-44bdeeb9832b" />
 
     
@@ -17,7 +18,9 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - 
 <img width="576" height="798" alt="image" src="https://github.com/user-attachments/assets/fb49b762-19b0-4ad9-9aae-1d4214a1fa3d" />
+
         
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
@@ -25,7 +28,9 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - 
 <img width="1394" height="1365" alt="image" src="https://github.com/user-attachments/assets/e2da765f-75dd-4730-aa5a-7b3e03768c9c" />
+
         
 - [ ]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
@@ -37,7 +42,9 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+          
 <img width="1394" height="1365" alt="image" src="https://github.com/user-attachments/assets/a6218fbe-154a-486c-8769-ff6753b931aa" />
+
 
 
 
